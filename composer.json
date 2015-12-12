@@ -1,0 +1,24 @@
+{
+    "name": "fastshipping/fastshipping-php",
+    "description": "A Library PHP to communication API Fast Shipping",
+    "keywords": ["correios", "api", "library"],
+    "type": "library",
+    "homepage": "http://fastshipping.ciawn.com.br",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "FastShipping\\Lib\\": "library/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "FastShipping\\Lib\\": "tests/"
+        }
+    }
+}
