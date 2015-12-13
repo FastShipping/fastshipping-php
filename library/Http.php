@@ -13,11 +13,6 @@ abstract class Http
 
 	public function get()
 	{
-		if (empty($this->codeTracking))
-		{
-			throw new Exception("URL not create verify and try", E_USER_ERROR);
-		}
-
 		return json_decode($this->run());
 	}
 
