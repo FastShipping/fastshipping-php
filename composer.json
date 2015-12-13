@@ -20,5 +20,8 @@
         "psr-4": {
             "FastShipping\\Lib\\": "tests/"
         }
+    },
+    "scripts": {
+        "test": "./vendor/bin/phpunit"
     }
 }
