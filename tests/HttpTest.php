@@ -3,12 +3,14 @@
 namespace FastShipping\Lib;
 
 class HttpTest extends \PHPUnit_Framework_TestCase
-{
-    protected $http;
+{	
+	public function testAbstrachClass()
+	{
+        // $stub = $this->getMockForAbstractClass('HttpAbstract');
+        // $stub->expects($this->any())
+        //      ->method('get')
+        //      ->will($this->returnValue(TRUE));
 
-    public function testOne()
-    {
-        $this->http = new Http;
-        // $this->assertEquals("https://fastshipping.ciawn.com.br/v1/", $this->http->endpoint);
+        // $this->assertTrue($stub->concreteMethod());
     }
 }

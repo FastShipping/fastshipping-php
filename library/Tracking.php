@@ -1,5 +1,14 @@
 <?php
 
+/*
+ * This file is part of FastShipping/fastshipping-php.
+ *
+ * (c) FastShipping - Reginaldo <fastshipping@ciawn.com.br>
+ *
+ * For the full copyright and license information, please view the "LICENSE.md"
+ * file that was distributed with this source code.
+ */
+
 namespace FastShipping\Lib;
 
 class Tracking extends Http
