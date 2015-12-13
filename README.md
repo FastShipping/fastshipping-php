@@ -10,6 +10,8 @@ Para instalar você pode baixar este repositorio ou usar o composer.
 
 composer require fastshipping/fastshipping-php
 
+Depois da instalação insira seu token para o uso da API, em library/Http.php $token
+
 # Contribuindo
 
 Crie issues com bugs ou corrija bugs, todos os pull requests serão analisados e aceitos.
