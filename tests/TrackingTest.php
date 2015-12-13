@@ -10,6 +10,7 @@ class TrackingTest extends \PHPUnit_Framework_TestCase
     {
         $this->tracking = new Tracking;
         $this->tracking->setCodeTracking('JO375581554BR');
+        
         $this->assertNotEmpty($this->tracking->getTracking());
     }
 
