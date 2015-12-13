@@ -1,3 +1,5 @@
+[![Code Coverage](https://scrutinizer-ci.com/g/FastShipping/fastshipping-php/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/FastShipping/fastshipping-php/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/FastShipping/fastshipping-php/badges/build.png?b=master)](https://scrutinizer-ci.com/g/FastShipping/fastshipping-php/build-status/master)
+
 # fastshipping-php
 
 Uma interface PHP para a API da Fast Shipping
