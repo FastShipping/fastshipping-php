@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1450021750">
-  <project timestamp="1450021750">
+<coverage generated="1450021834">
+  <project timestamp="1450021834">
     <package name="FastShipping\Lib">
       <file name="/opt/lampp/htdocs/repotemp/library/Http.php">
         <class name="Http" namespace="FastShipping\Lib">
